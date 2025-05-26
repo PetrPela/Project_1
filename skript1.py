@@ -1,1 +1,0 @@
-print("ahoj studenti akademie")
